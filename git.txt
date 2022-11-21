@@ -1,2 +1,3 @@
 git gihob ilk gun
 git gihob ilk gun2. demene
+git gihob ilk gun 3.deneme
